@@ -57,7 +57,7 @@ XX<center><iframe src="https://public.tableau.com/views/Community_Explorer/Map?:
 <Bh>
   
  <br>
-<b>The 17 profiles are the result of clustering analysis of 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties using machine learning techniques. THey can be summarized as follows:</b>
+The 17 profiles are the result of clustering analysis of 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties using machine learning techniques. THey can be summarized as follows:
 <br>
 <br><b>Mainstream America</B> captures 74% of the US population and encompasses Urban Core counties and Suburban and Small Metro counties (819 counties).
 <br><b>1 =></b> The most ethnically diverse profile with the highest income level. It is a highly educated cohort that resides in large metro areas 26% of the US population)
