@@ -9,13 +9,12 @@
   gtag('config', 'UA-166686264-2');
 </script>
 
-<!-- Default Statcounter code for The Community Explorer
-https://miresearch.github.io/Community-Explorer/ -->
+<!-- Default Statcounter code for covid 19
+https://miresearch.github.io/COVID19-Community-Explorer/ -->
 <script type="text/javascript">
-var sc_project=12481025; 
+var sc_project=12731277; 
 var sc_invisible=1; 
-var sc_security="74862afb"; 
-var sc_https=1; 
+var sc_security="206367cf"; 
 </script>
 <script type="text/javascript"
 src="https://www.statcounter.com/counter/counter.js"
@@ -23,8 +22,9 @@ async></script>
 <noscript><div class="statcounter"><a title="Web Analytics"
 href="https://statcounter.com/" target="_blank"><img
 class="statcounter"
-src="https://c.statcounter.com/12481025/0/74862afb/1/"
-alt="Web Analytics"></a></div></noscript>
+src="https://c.statcounter.com/12731277/0/206367cf/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
 <meta name="twitter:title" content="COVID-19 Explorer">  
@@ -32,12 +32,12 @@ alt="Web Analytics"></a></div></noscript>
 <meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
-<meta property="og:title" content="Community Explorer">
+<meta property="og:title" content="COVID-19 Explorer">
 <meta property="og:description" content="The COVID-19 Community Explorer provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features">
 <meta property="og:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta property="og:image:url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta property="og:image:secure_url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
-<meta property="og:url" content="https://miresearch.github.io/Community-Explorer/">
+<meta property="og:url" content="https://miresearch.github.io/COVID19-Community-Explorer/">
 
 </head>
 
