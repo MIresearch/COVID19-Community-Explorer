@@ -50,7 +50,7 @@ The <b>COVID-19 Community Explorer</b> provides a simple way to explore geograph
 
 <H2>Interactive Map</H2>
 
-<center><iframe src="https://public.tableau.com/views/Covid-19Explorer17Profiles/ProfileInfo2?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/Covid-19Explorer17Profiles_16473914887940/ProfileInfo2?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
 
 <br>
 <br>
