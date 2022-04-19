@@ -44,7 +44,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <H1><b>Milken Institute Research Department on GitHub </b></H1><Hr>
 
 <H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
-The <b>COVID-19 Community Explorer</b> provides a simple way to explore geographic clusters of county-communities affected by the pandemic and their socioeconomic, demographic, and health-related features. More details on <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> the Community Explorer </a> <br>
+The <b>COVID-19 Community Explorer</b> provides a simple way to explore geographic clusters of county-communities affected by the pandemic and their socioeconomic, demographic, and health-related features. More specifically, it clusters 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties into 17 population profiles using machine learning techniques. More details on <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> the Community Explorer </a> <br>
 
 
 <H2>Interactive Map  (<a href="https://miresearch.github.io/COVID19-Community-Explorer-distributions/" target="_blank">  Link to Additional Statistics)</a> </H2>
