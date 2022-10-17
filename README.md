@@ -44,7 +44,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <H1><b>Milken Institute Research Department on GitHub </b></H1><Hr>
 
 <H2><b> COVID-19 Community Explorer (17 profiles based on 751 factors)</b> </H2> <Hr>
-The <b>COVID-19 Community Explorer</b> provides a simple way to explore geographic clusters of county-communities affected by the pandemic and their socioeconomic, demographic, and health-related features. More specifically, it clusters 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties into 17 population profiles using machine learning techniques. More details on <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> the Community Explorer </a> <br>
+The <b>COVID-19 Community Explorer</b> provides a simple way to explore geographic clusters of county-communities affected by the pandemic and their socioeconomic, demographic, and health-related features. More specifically, it clusters 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties into 17 population profiles using machine learning techniques. More details on <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> the Community Explorer </a> <br>
 
 
 <H2>Interactive Map  (<a href="https://miresearch.github.io/COVID19-Community-Explorer-distributions/" target="_blank">  Link to Additional Statistics)</a> </H2>
@@ -114,7 +114,7 @@ BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Servi
 
 <br><br>
 <H2>Related Projects </H2>
--<a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> The Community Explorer (17 profiles based on 751 factors) </a> <br>
+-<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> The Community Explorer (17 profiles based on 751 factors) </a> <br>
 -<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
 -<a href="https://miresearch.github.io/COVID-19-Community-Explorer-8profiles/" target="_blank"> COVID-19 Community Explorer(8 profiles based on 26 factors)</a> <br>
 -<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
