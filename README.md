@@ -28,12 +28,12 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
 <meta name="twitter:title" content="COVID-19 Explorer">  
-<meta name="twitter:description" content="The COVID-19 Community Explorer provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features.">
+<meta name="twitter:description" content="A new look at the Covid-19 pandemic across the US counties using the Community Explorer profiles.">
 <meta name="twitter:image" content="https://claudelopez.com/wp-content/uploads/2022/04/Screenshot-2022-04-19-132327.png">
 <meta name="twitter:card" content="summary_large_image">
 
 <meta property="og:title" content="COVID-19 Explorer">
-<meta property="og:description" content="The COVID-19 Community Explorer provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features">
+<meta property="og:description" content="A new look at the Covid-19 pandemic across the US counties using the Community Explorer profiles.">
 <meta property="og:image" content="https://claudelopez.com/wp-content/uploads/2022/04/Screenshot-2022-04-19-132327.png">
 <meta property="og:image:url" content="https://claudelopez.com/wp-content/uploads/2022/04/Screenshot-2022-04-19-132327.png">
 <meta property="og:image:secure_url" content="https://claudelopez.com/wp-content/uploads/2022/04/Screenshot-2022-04-19-132327.png">
@@ -43,7 +43,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department on GitHub </b></H1><Hr>
 
-<H2><b> COVID-19 Community Explorer (17 profiles based on 751 factors)</b> </H2> <Hr>
+<H2><b> Community Explorer and COVID-19 </b> </H2> <Hr>
 The <b>COVID-19 Community Explorer</b> provides a simple way to explore geographic clusters of county-communities affected by the pandemic and their socioeconomic, demographic, and health-related features. More specifically, it clusters 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties into 17 population profiles using machine learning techniques. More details on <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> the Community Explorer </a> <br>
 
 
